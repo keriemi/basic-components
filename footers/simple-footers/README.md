@@ -1,2 +1,2 @@
-# basic-components
-Simple examples for basic components of a website.
+# simple-footer
+Simple footer.
