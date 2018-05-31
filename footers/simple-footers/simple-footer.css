@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+footer {
+  background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
+  display: table;
+  width: 100vw;
+  height: 8rem;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  font-size: .875rem;
+}
+
+.wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+footer samll {
+  color: #ccc;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  color: #c74f78;
+}
