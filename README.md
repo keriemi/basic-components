@@ -1,2 +1,2 @@
 # basic-components
-Examples for basic components of a website.
+Simple examples for basic components of a website.
